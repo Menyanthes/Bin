@@ -21,10 +21,17 @@ Please contact Trefoil Hydrology if you have any questions, comments or whishes 
 
 ----------------------------------------------  License info  ----------------------------------------------------------
 
-Published by Trefoil Hydrology, under the CC-BY Public License (Creative Commons Attribution 4.0 International).
-Subject to appropriate attribution and credit of licensor, this software and material may be used and be reproduced in 
-any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written 
-consent  of the publisher.
+Published under the CC BY-NC-SA Public License (Creative Commons Attribution 4.0 International).
+
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for 
+noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon 
+the material, you must license the modified material under identical terms. 
+
+CC BY-NC-SA includes the following elements:
+
+BY: credit must be given to the creator.
+NC: Only noncommercial uses of the work are permitted.
+SA: Adaptations must be shared under the same terms.
 
 -------------------------------------------------------------------------------------------------------------------------
 
