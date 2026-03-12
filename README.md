@@ -29,9 +29,11 @@ the material, you must license the modified material under identical terms.
 
 CC BY-NC-SA includes the following elements:
 
-BY: credit must be given to the creator.
-NC: Only noncommercial uses of the work are permitted.
-SA: Adaptations must be shared under the same terms.
+- BY: credit must be given to the creator.
+
+- NC: Only noncommercial uses of the work are permitted.
+
+- SA: Adaptations must be shared under the same terms.
 
 -------------------------------------------------------------------------------------------------------------------------
 
