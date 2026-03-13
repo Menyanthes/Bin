@@ -22,8 +22,8 @@ Please contact Trefoil Hydrology if you have any questions, comments or whishes 
 
 ## License
 
-The MCRInstaller included in this repository is covered by its license from The Mathworks
-The Visual C++ Redistributables included in this repository is covered by its license from Microsoft
-The ModelIT toolboxes used for creating Menyanthes is covered by its license from ModelIT
+The MCRInstaller included in this repository is covered by its license from The Mathworks <br>
+The Visual C++ Redistributables included in this repository is covered by its license from Microsoft <br> 
+The ModelIT toolboxes used for creating Menyanthes is covered by its license from ModelIT <br> 
 
 All other files are covered by Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License, see [`LICENSE`](./LICENSE).
