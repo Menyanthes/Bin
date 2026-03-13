@@ -1,4 +1,4 @@
-# Menyanthes (Freeware version)
+# Menyanthes (freeware version)
 Software for Time Series Analysis, originally developed by KWR and Delft University of Technology
 
 ## Documentation
