@@ -1,10 +1,9 @@
 # Menyanthes (Freeware version)
 Software for Time Series Analysis, originally developed by KWR and Delft University of Technology
-(see a.o. )
 
 ## Documentation
 
-- [Quick Start Guidel](/docs/Von%20Asmuth%20en%20Vonk%20(2017)%20Menyanthes%20Quick%20Start%20Guide,%20KWR.pdf)
+- [Quick Start Guide](/docs/Von%20Asmuth%20en%20Vonk%20(2017)%20Menyanthes%20Quick%20Start%20Guide,%20KWR.pdf)
 - [Scientific publication](https://www.sciencedirect.com/science/article/abs/pii/S1364815212001831)
 - [Stowa Manual](https://www.stowa.nl/sites/default/files/assets/PUBLICATIES/Publicaties%202021/STOWA%202021-32%20Handleiding%20tijdreeksanalyse%283%29.pdf)
 - [HydroMonitor Format](/docs/Von%20Asmuth%20en%20Vonk%20(2017)%20HydroMonitor%20-%20open%20data%20exchange%20format%20(toelichting%20en%20definitie),%20KWR.pdf)
