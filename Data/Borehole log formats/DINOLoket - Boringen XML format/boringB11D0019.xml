@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE set SYSTEM "location.dtd">
+<set version="1.3">
+<pointSurvey version="1.3" embargo="OPENBAAR" >
+	<identification id="B11D0019">
+		<organisation>TNO-NITG</organisation>
+		<remark>unieke identificatie</remark>
+	</identification>
+	<surveyLocation>
+		<coordinates originalMeasurement="JA" UoM="METER" coordSystem="RD">
+			<coordinateX>197955</coordinateX>
+			<coordinateY>553020</coordinateY>
+		</coordinates>
+	</surveyLocation>
+	<surfaceElevation>
+		<elevation originalMeasurement="JA" levelReference="NAP" levelValue="150" UoM="CENTIMETER"></elevation>
+	</surfaceElevation>
+	<geoPoliticalLocation>
+		<countryName>Nederland</countryName>
+		<stateOrProvinceName>Friesland</stateOrProvinceName>
+		<locationName>Heerenveen</locationName>
+		<map maptype="TOPO1961">11D</map>
+	</geoPoliticalLocation>
+	<borehole  version="1.3" baseDepthUoM="CENTIMETER" baseDepth="5700" >
+		<operatorOrg>Deibel en Co, Leeuwarden</operatorOrg>
+		<date startYear="1920" startMonth="1" startDay="1"/>
+		<lithoDescr version="1.3" layerDepthUoM="CENTIMETER" layerDepthReference="MV" lithoDescrStandard="ONB" lithoDescrWetDry="NDO" lithoDescrVersion="1" lithoDescrQuality="C" >
+			<describerName>Steenhuis, Dr. J.F.</describerName>
+			<organisation>RGD</organisation>
+		<lithoInterval topDepth="0" baseDepth="100">
+			<lithology code="Z" >zand</lithology>
+			<colorMain code="ON" >onbekend</colorMain>
+		</lithoInterval>
+		<lithoInterval topDepth="100" baseDepth="200">
+			<lithology code="Z" >zand</lithology>
+			<colorMain code="RO" >rood</colorMain>
+		</lithoInterval>
+		<lithoInterval topDepth="200" baseDepth="600">
+			<lithology code="L" >leem</lithology>
+			<sandAdmix code="Z3" >sterk zandig</sandAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<carbonateFracNEN5104 code="CA1" >kalkloos</carbonateFracNEN5104>
+		</lithoInterval>
+		<lithoInterval topDepth="600" baseDepth="1300">
+			<lithology code="Z" >zand</lithology>
+			<siltAdmix code="S3" >sterk siltig</siltAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorSecondary code="TGE" >geel-</colorSecondary>
+			<colorIntensity code="LI" >licht-</colorIntensity>
+			<sandMedianClass code="ZZFO" >zeer fijn (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="1300" baseDepth="1600">
+			<lithology code="Z" >zand</lithology>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="LI" >licht-</colorIntensity>
+			<sandMedianClass code="ZMGO" >matig grof (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="1600" baseDepth="1700">
+			<lithology code="Z" >zand</lithology>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="DO" >donker-</colorIntensity>
+			<sandMedianClass code="ZMGO" >matig grof (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="1700" baseDepth="1900">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G1" >zwak grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<sandMedianClass code="ZMGO" >matig grof (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="1900" baseDepth="2250">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G3" >sterk grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="LI" >licht-</colorIntensity>
+			<sandMedianClass code="ZGC" >grove  categorie (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="2250" baseDepth="2600">
+			<lithology code="Z" >zand</lithology>
+			<siltAdmix code="SX" >siltig</siltAdmix>
+			<gravelAdmix code="G1" >zwak grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<sandMedianClass code="ZFC" >fijne categorie (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="2600" baseDepth="2700">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G3" >sterk grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="LI" >licht-</colorIntensity>
+			<sandMedianClass code="ZZGO" >zeer grof (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="2700" baseDepth="3000">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G1" >zwak grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<sandMedianClass code="ZMGO" >matig grof (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="3000" baseDepth="3200">
+			<lithology code="Z" >zand</lithology>
+			<siltAdmix code="SX" >siltig</siltAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="DO" >donker-</colorIntensity>
+			<sandMedianClass code="ZFC" >fijne categorie (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="3200" baseDepth="3700">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G1" >zwak grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="DO" >donker-</colorIntensity>
+			<sandMedianClass code="ZMGO" >matig grof (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="3700" baseDepth="3900">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G3" >sterk grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="DO" >donker-</colorIntensity>
+			<sandMedianClass code="ZMGO" >matig grof (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="3900" baseDepth="4200">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G1" >zwak grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="DO" >donker-</colorIntensity>
+			<sandMedianClass code="ZFC" >fijne categorie (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="4200" baseDepth="4450">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G1" >zwak grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<sandMedianClass code="ZFC" >fijne categorie (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="4450" baseDepth="4750">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G1" >zwak grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<sandMedianClass code="ZMGO" >matig grof (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="4750" baseDepth="4850">
+			<lithology code="Z" >zand</lithology>
+			<siltAdmix code="S1" >zwak siltig</siltAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorSecondary code="TBR" >bruin-</colorSecondary>
+			<colorIntensity code="LI" >licht-</colorIntensity>
+			<sandMedianClass code="ZFC" >fijne categorie (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="4850" baseDepth="5150">
+			<lithology code="Z" >zand</lithology>
+			<siltAdmix code="S1" >zwak siltig</siltAdmix>
+			<gravelAdmix code="G3" >sterk grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="DO" >donker-</colorIntensity>
+			<sandMedianClass code="ZMGO" >matig grof (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="5150" baseDepth="5300">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G3" >sterk grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="DO" >donker-</colorIntensity>
+			<sandMedianClass code="ZGC" >grove  categorie (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="5300" baseDepth="5650">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G3" >sterk grindig</gravelAdmix>
+			<colorMain code="GR" >grijs</colorMain>
+			<colorIntensity code="LI" >licht-</colorIntensity>
+			<sandMedianClass code="ZZGO" >zeer grof (O)</sandMedianClass>
+		</lithoInterval>
+		<lithoInterval topDepth="5650" baseDepth="5700">
+			<lithology code="Z" >zand</lithology>
+			<gravelAdmix code="G1" >zwak grindig</gravelAdmix>
+			<colorMain code="ON" >onbekend</colorMain>
+			<sandMedianClass code="ZMGO" >matig grof (O)</sandMedianClass>
+		</lithoInterval>
+		</lithoDescr>
+		<drillMethod>
+			<drillMethodInterval code="PUL">Pulsboring</drillMethodInterval>
+		</drillMethod>
+	</borehole>
+</pointSurvey>
+</set>

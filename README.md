@@ -3,7 +3,7 @@ Software for Time Series Analysis, originally developed by KWR and Delft Univers
 
 ## Documentation
 
-- [Quick Start Guide](/docs/Von%20Asmuth%20en%20Vonk%20(2017)%20Menyanthes%20Quick%20Start%20Guide,%20KWR.pdf)
+- [Quick Start Guide](/Docs/Von%20Asmuth%20en%20Vonk%20(2017)%20Menyanthes%20Quick%20Start%20Guide,%20KWR.pdf)
 - [Scientific publication](https://www.sciencedirect.com/science/article/abs/pii/S1364815212001831)
 - [Stowa Manual](https://www.stowa.nl/sites/default/files/assets/PUBLICATIES/Publicaties%202021/STOWA%202021-32%20Handleiding%20tijdreeksanalyse%283%29.pdf)
 - [HydroMonitor Format](/docs/Von%20Asmuth%20en%20Vonk%20(2017)%20HydroMonitor%20-%20open%20data%20exchange%20format%20(toelichting%20en%20definitie),%20KWR.pdf)
@@ -14,6 +14,10 @@ Installation steps:
 1) Install MCRInstaller.exe if absent 	        	(Matlab Compiler Runtime, v8.3 / r2014a 64-bit)
 2) Install vcredist_x64.exe if absent           	(Visual C++ Redistributables, 2012 64-bit)
 3) Unzip Menyanthes vx.x (64 bit, dddd-mm-dd).zip       (Time Series Analysis Software, in empty directory)
+
+## Example data and formats
+
+- [File format examples](/Data)
 
 ## Usage and support
 
